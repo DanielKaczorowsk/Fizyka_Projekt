@@ -1,6 +1,6 @@
 # ⚙️ Projekt Fizyka Odbijanie Paletki
 
-    **EnvService** is a lightweight application configuration management system in PHP, supporting various data sources (`.env`, Redis, tables), built on the **Builder**, **Factory** and **Dependency Injection (Container)** patterns.
+    Projekt polega na odbijaniu pileczki przez paletke z podstawowymi prawami fizyki.
 ## Wykorzystanie fizyki
     Metoda kalkulująca punkt uderzenia relative do środka paletki (-1 do 1)
     Pomocnicza metoda do wykrywania kolizji (AABB z uwzględnieniem promienia)
