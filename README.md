@@ -16,5 +16,4 @@
      ./idea/arrtifacts/Fizyka_Projekt_jar mozna utworzyć tez plik exe
 
 ## 🧩 Przyklad
-
-    ![Przykladowe Zdjęcie](graScreen.png)
+![Przykladowe Zdjęcie](graScreen.png)
